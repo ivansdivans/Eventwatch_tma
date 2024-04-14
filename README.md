@@ -10,7 +10,7 @@ This is a basic and straightforward Telegram Mini App(TMA) implemented using pla
 
 - App is available via direct link: TBD
 - Or you can launch app with a bot menu button: TBD
-- Deployment URL: TBD
+- Deployment URL: [https://ivansdivans.github.io/Eventwatch_tma/](https://ivansdivans.github.io/Eventwatch_tma/)
 
 ## Features
 - Minimalistic user interface.
