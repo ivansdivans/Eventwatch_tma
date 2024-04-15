@@ -5,7 +5,11 @@
   <br>
 </p>
 
-# POC of Telegram Mini App for Eventwatch_bot
+# Eventwatch_bot mini app (POC)
+
+Web app that allows you to browse, track and buy tickets for crypto events around the world.
+
+## Technologies 
 This is a basic and straightforward Telegram Mini App(TMA) implemented using plain JavaScript, HTML, and CSS. This project aims to provide a minimalistic example of how to create a simple TWA and launch it within Telegram without relying on complex build tools or bleeding-edge libraries.
 
 - App is available via direct link: TBD
